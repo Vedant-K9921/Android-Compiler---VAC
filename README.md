@@ -8,6 +8,7 @@ Currently, programmers rely on desktop-based IDEs such as:
 •	Android studio 
 •	Visual Studio Code 
 •	Atom 
+
 These tools require installation and configuration, which may not be convenient for beginners. 
 Problems in Existing System 
 •	Requires powerful computer systems 
@@ -15,15 +16,13 @@ Problems in Existing System
 •	Limited portability 
 •	Not suitable for quick coding practice on mobile devices 
 Proposed System 
+
 The proposed system is an Android-based Code Compiler Application that allows users to write and execute programs directly from their smartphones. 
 Benefits include: 
 •	Portable coding environment 
 •	Easy to use interface 
 •	Multiple language support 
 •	Quick code testing 
- 
- 
-
  
 
 Requirement Analysis 
@@ -39,15 +38,5 @@ Software Requirements
 •	XML for UI design 
 •	Online compiler API 
 •	Android SDK 
-Functional Requirements 
-•	Code editor interface 
-•	Language selection 
-•	Code execution 
-•	Output display 
-•	File save and load functionality 
-Non-Functional Requirements 
-•	User friendly interface 
-•	Fast code execution 
-•	Reliable performance 
-•	Secure API communication 
+
  
