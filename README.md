@@ -1,3 +1,10 @@
+<img width="1080" height="2217" alt="Screenshot_20260412-214358_VAC jpg" src="https://github.com/user-attachments/assets/844673ad-cca8-4892-9977-ea8541f7fb73" />
+<img width="1080" height="2229" alt="Screenshot_20260412-214330_VAC jpg" src="https://github.com/user-attachments/assets/4527fab1-38cf-48f1-a4df-1cdd88adf3c6" />
+<img width="1080" height="2214" alt="Screenshot_20260412-214325_VAC jpg" src="https://github.com/user-attachments/assets/167b27ab-ff86-4eb5-b922-26bf1f33af33" />
+<img width="1080" height="2222" alt="Screenshot_20260412-214310_VAC jpg" src="https://github.com/user-attachments/assets/22df08ca-2d94-4c0b-999a-7a488cf6b2b4" />
+<img width="1080" height="2214" alt="Screenshot_20260412-214304_VAC jpg" src="https://github.com/user-attachments/assets/c27baa4c-80fa-4d5b-b210-12b6f2d23ea7" />
+<img width="1080" height="2220" alt="Screenshot_20260412-214221_VAC jpg" src="https://github.com/user-attachments/assets/fa70c178-2b64-45ab-8101-a9d7e1f516ea" />
+<img width="1080" height="2232" alt="Screenshot_20260412-214131_VAC jpg" src="https://github.com/user-attachments/assets/5880036c-7824-4515-adcb-906b60c0b0ab" />
 # Android-Compiler---VAC
 Its a compiler application built for androids. Android-based Multi-Language Code Compiler Application. The app allows users to write, compile, and run programs directly on their mobile devices. It includes features like a code editor, syntax highlighting, output display, language selection, and file management.
 
